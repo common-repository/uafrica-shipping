@@ -1,0 +1,152 @@
+# Copyright (C) 2021 uafrica
+# This file is distributed under the same license as the uAfrica Shipping plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: uAfrica Shipping 0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/uafrica-shipping\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-02-03T10:22:11+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: uafrica-shipping\n"
+
+#. Plugin Name of the plugin
+msgid "Bob Go"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "TODO"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display Bob Go shipping information at checkout."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bob Go"
+msgstr ""
+
+#: app/class-activation.php:71
+msgid "A shippings page was already found from a previous activation."
+msgstr ""
+
+#: app/class-activation.php:72
+#: app/class-activation.php:96
+msgid "You can change this page in the settings."
+msgstr ""
+
+#: app/class-activation.php:87
+msgid "Shipping details"
+msgstr ""
+
+#: app/class-activation.php:95
+msgid "Created a new shipping page."
+msgstr ""
+
+#: app/class-admin.php:50
+msgid "Shipping page"
+msgstr ""
+
+#: app/class-admin.php:126
+msgid "Bob Go page"
+msgstr ""
+
+#: app/class-admin.php:140
+msgctxt "column name"
+msgid "Track Order"
+msgstr ""
+
+#: app/class-admin.php:165
+msgctxt "link in woo admin"
+msgid "Track order"
+msgstr ""
+
+#. translators: %d the order number.
+#: app/class-shortcode.php:42
+msgid "We were unable to retrieve tracking information for '%s'. Please try again later."
+msgstr ""
+
+#: app/templates/settings-page.php:10
+msgid "Instructions"
+msgstr ""
+
+#: app/templates/settings-page.php:11
+msgid "@todo provide instructions here"
+msgstr ""
+
+#: app/templates/settings-page.php:15
+msgid "uAfrica Settings"
+msgstr ""
+
+#: app/templates/settings-page.php:19
+msgid "Save shipping page"
+msgstr ""
+
+#: app/templates/shipping-template.php:20
+msgid "Order number"
+msgstr ""
+
+#. translators: %1$s Example order number %2$s example tracking number.
+#: app/templates/shipping-template.php:28
+msgid "Enter an order number e.g. %1$s or enter a tracking number e.g. %2$s"
+msgstr ""
+
+#: app/templates/shipping-template.php:35
+msgid "Track order"
+msgstr ""
+
+#. translators: #%s the order number.
+#: app/templates/shipping-template.php:45
+#: block/build/index.js:2
+#: block/src/edit.js:62
+msgid "Tracking information for order #%s"
+msgstr ""
+
+#. translators: #%s the order number.
+#: app/templates/shipping-template.php:49
+#: block/build/index.js:2
+#: block/src/edit.js:71
+msgid "Shipping provider:"
+msgstr ""
+
+#: app/templates/shipping-template.php:53
+#: block/build/index.js:2
+#: block/src/edit.js:79
+msgid "Tracking #:"
+msgstr ""
+
+#. translators: %1$s Courier name %2$s Courier phone number %3$s order ID.
+#: app/templates/shipping-template.php:91
+#: block/build/index.js:3
+#: block/src/edit.js:156
+msgid "For additional information, please contact %1$s (%2$s) and quote tracking reference %3$s."
+msgstr ""
+
+#: block/build/index.js:1
+#: block/src/index.js:11
+msgid "uAfrica Tracking"
+msgstr ""
+
+#: block/build/index.js:1
+#: block/src/index.js:12
+msgid "Display Bob Go tracking information."
+msgstr ""
+
+#: block/build/index.js:1
+#: block/src/edit.js:25
+msgid "Courier"
+msgstr ""
+
+#: block/build/index.js:1
+#: block/src/edit.js:40
+msgid "Background colour"
+msgstr ""
+
+#: block/build/index.js:1
+#: block/src/edit.js:48
+msgid "Text colour"
+msgstr ""

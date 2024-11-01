@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uAfrica Shipping 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/uafrica-shipping\n"
+"POT-Creation-Date: 2021-02-03T10:22:11+01:00\n"
+"PO-Revision-Date: 2021-02-03 10:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Domain: uafrica-shipping\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Bob Go"
+msgstr "Bob Go"
+
+#. Plugin URI of the plugin
+msgid "TODO"
+msgstr "TODO"
+
+#. Description of the plugin
+msgid "Display Bob Go shipping information at checkout."
+msgstr "Toon Bob Go verzendinformatie op uw site."
+
+#. Author of the plugin
+msgid "bobgroup"
+msgstr "bobgroup"
+
+#: app/class-activation.php:71
+msgid "A shippings page was already found from a previous activation."
+msgstr "Er is al een verzendpagina gevonden van een vorige activatie."
+
+#: app/class-activation.php:72 app/class-activation.php:96
+msgid "You can change this page in the settings."
+msgstr "Je kan deze pagina aanpassen in de instellingen."
+
+#: app/class-activation.php:87
+msgid "Shipping details"
+msgstr "Verzendgegevens"
+
+#: app/class-activation.php:95
+msgid "Created a new shipping page."
+msgstr "Er is een nieuwe verzendpagina aangemaakt."
+
+#: app/class-admin.php:50
+msgid "Shipping page"
+msgstr "Verzendpagina"
+
+#: app/class-admin.php:126
+msgid "Bob Go shipping page"
+msgstr "Bob Go verzendpagina"
+
+#: app/class-admin.php:140
+msgctxt "column name"
+msgid "Track Order"
+msgstr "Volg Bestelling"
+
+#: app/class-admin.php:165
+msgctxt "link in woo admin"
+msgid "Track order"
+msgstr "Volg bestelling"
+
+#. translators: %d the order number.
+#: app/class-shortcode.php:33
+msgid "We were unable to retrieve tracking information for '%s'. Please try again later."
+msgstr "We konden geen trackinginformatie ophalen voor '%s'. Probeer het later opnieuw."
+
+#: app/templates/settings-page.php:10
+msgid "Instructions"
+msgstr "Instructies"
+
+#: app/templates/settings-page.php:11
+msgid "@todo provide instructions here"
+msgstr "@todo provide instructions here"
+
+#: app/templates/settings-page.php:15
+msgid "Bob Go settings"
+msgstr "Bob Go instellingen"
+
+#: app/templates/settings-page.php:19
+msgid "Save shipping page"
+msgstr "Verzendpagina opslaan"
+
+#: app/templates/shipping-template.php:20
+msgid "Order number"
+msgstr "Bestelnummer"
+
+#. translators: %1$s Example order number %2$s example tracking number.
+#: app/templates/shipping-template.php:28
+msgid "Enter an order number e.g. %1$s or enter a tracking number e.g. %2$s"
+msgstr "Vul een ordernumer in bijv. %1$s of vul een verzendnummer in bijv. %2$s"
+
+#: app/templates/shipping-template.php:35
+msgid "Track order"
+msgstr "Volg bestelling"
+
+#. translators: #%s the order number.
+#: app/templates/shipping-template.php:45 block/build/index.js:2 block/src/edit.js:62
+msgid "Tracking information for order #%s"
+msgstr "Tracking info voor bestelling #%s"
+
+#. translators: #%s the order number.
+#: app/templates/shipping-template.php:49 block/build/index.js:2 block/src/edit.js:71
+msgid "Shipping provider:"
+msgstr "Verzendbedrijf:"
+
+#: app/templates/shipping-template.php:53 block/build/index.js:2 block/src/edit.js:79
+msgid "Tracking #:"
+msgstr "Tracking #:"
+
+#. translators: %1$s Courier name %2$s Courier phone number %3$s order ID.
+#: app/templates/shipping-template.php:91 block/build/index.js:3 block/src/edit.js:156
+msgid ""
+"For additional information, please contact %1$s (%2$s) and quote tracking reference "
+"%3$s."
+msgstr ""
+"Voor meer informatie, neem contact op met %1$s (%2$s) met offerte referentie %3$s."
+
+#: block/build/index.js:1 block/src/index.js:11
+msgid "Bob Go shipping info"
+msgstr "Bob Go shipping info"
+
+#: block/build/index.js:1 block/src/index.js:12
+msgid "Bob Go tracking information."
+msgstr "Toon Bob Go verzendinformatie."
+
+#: block/build/index.js:1 block/src/edit.js:25
+msgid "Courier"
+msgstr "Bezorger"
+
+#: block/build/index.js:1 block/src/edit.js:40
+msgid "Background colour"
+msgstr "Achtergrond kleur"
+
+#: block/build/index.js:1 block/src/edit.js:48
+msgid "Text colour"
+msgstr "Tekst kleiur."
+
+#~ msgid "Enter your order number e.g. 202"
+#~ msgstr "Vul uw bestelnummer in , bijv 202"
